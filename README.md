@@ -5,7 +5,7 @@
 
 💞️ I’m always open to collaborating with professional developers, researchers, and entrepreneurs who share my enthusiasm for pushing the boundaries of what is possible.
 
-📫 You can reach me through GitHub or by sending an message in Telegram t.me/K_HACKER_ANONYMOUS 
+📫 You can reach me through GitHub or by sending an message in Telegram t.me/Mr_Coder_X 
 
 😄 Pronouns: He/Him
 
