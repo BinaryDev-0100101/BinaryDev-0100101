@@ -19,13 +19,13 @@ Ai Machine Learning  NLP ,Bug Bounty ,Security Breach,Reverse Engineering, Andr
 ### Main programming languages:
 
 <div align=center style="background-color: transparent;">
-	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,c++,c#,html,css,php"/>
+	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,c++,c#,html,php"/>
 </div>
 
 ### Contact me:
 
 I'm opened for suggestions! If you want partnership feel free to contact me.
 
-- Telegram: <a href="https://t.me/Mr_Coder_X">`@Mr_Coder_X`</a>
+- Telegram: <a href="https://t.me/Mr_Coder_X">`Mr_Coder_X`</a>
 
-<div align="center" style="background-color: transparent;"><img style="opacity: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryDev-0100101&langs_count=6&theme=transparent&bg_color=00000000"/></div>
+<div align="center" style="background-color: transparent;"><img style="opacity: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BinaryDev-0100101&langs_count=4&theme=transparent&bg_color=00000000"/></div>
