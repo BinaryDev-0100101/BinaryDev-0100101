@@ -19,7 +19,7 @@ Ai Machine Learning  NLP ,Bug Bounty ,Security Breach,Reverse Engineering, Andr
 ### Main programming languages:
 
 <div align=center style="background-color: transparent;">
-	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,c++,c#,html,php"/>
+	<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js,html,php"/>
 </div>
 
 ### Contact me:
