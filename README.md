@@ -10,6 +10,7 @@ Skills : Python Tools Dev ,Android Remote Access Trojan Dev, Computer Access Tro
 </div>
 <div align=center style="background-color: transparent;">
 	<img alt="Stars" src="https://img.shields.io/github/stars/BinaryDev-0100101?label=stars"/>
+	<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=BinaryDev-0100101"/>
 </div>
     
 ### My main activities are:
